@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-16 21:34:12 by Eclipse SUMO duarouter Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="pattom_zoomed_in.net.xml"/>
+        <route-files value="pattom_zoomed_in.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="pattom_zoomed_in.rou.xml"/>
+    </output>
+
+    <report>
+        <ignore-errors value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0" depart="0.00">
+        <route edges="599381646 599620472 599328375#0 599328375#1 599328374 599328373 -599328373"/>
+    </vehicle>
+    <vehicle id="2" depart="2.00">
+        <route edges="599653101#0 599653101#1 599653101#2"/>
+    </vehicle>
+    <vehicle id="3" depart="3.00">
+        <route edges="599654163#0 -599654163#0"/>
+    </vehicle>
+    <vehicle id="4" depart="4.00">
+        <route edges="599292834#0 599292834#1 599328375#0 599328375#1 599328374 599328373 -599328373"/>
+    </vehicle>
+    <vehicle id="7" depart="7.00">
+        <route edges="599381646 599620472 599328375#0"/>
+    </vehicle>
+    <vehicle id="9" depart="9.00">
+        <route edges="599653101#2 801737481 599292834#1 599328375#0 599328375#1 599328374 599328373 -599328373"/>
+    </vehicle>
+    <vehicle id="10" depart="10.00">
+        <route edges="599653101#2 599653101#3"/>
+    </vehicle>
+    <vehicle id="12" depart="12.00">
+        <route edges="801286073 -801285852#0 -599654163#0 599292839#1"/>
+    </vehicle>
+    <vehicle id="13" depart="13.00">
+        <route edges="-599654163#1 801285852#0 -801285852#0"/>
+    </vehicle>
+    <vehicle id="15" depart="15.00">
+        <route edges="599653101#2 599653101#3 599653101#4"/>
+    </vehicle>
+    <vehicle id="20" depart="20.00">
+        <route edges="599620473 -599381646"/>
+    </vehicle>
+    <vehicle id="26" depart="26.00">
+        <route edges="23449080#0 23449080#1 801737481 599292834#1 1230810533 599292839#1 801286073"/>
+    </vehicle>
+    <vehicle id="27" depart="27.00">
+        <route edges="599381646 599620472 599328375#0 599653101#2 801737481 599620473"/>
+    </vehicle>
+    <vehicle id="29" depart="29.00">
+        <route edges="-801285852#1 -801286073 599292839#2"/>
+    </vehicle>
+    <vehicle id="32" depart="32.00">
+        <route edges="599653101#3 599653101#4 599653101#5"/>
+    </vehicle>
+    <vehicle id="39" depart="39.00">
+        <route edges="23449080#0 449182827#0 449182827#1"/>
+    </vehicle>
+    <vehicle id="41" depart="41.00">
+        <route edges="599328375#0 599653101#2 801737481 599292834#1 1230810533 599654163#0 801285852#0 801285852#1"/>
+    </vehicle>
+    <vehicle id="43" depart="43.00">
+        <route edges="801737481 599292834#1 599328375#0 599328375#1 599328374"/>
+    </vehicle>
+    <vehicle id="47" depart="47.00">
+        <route edges="-599654163#0 599292839#1 599292839#2"/>
+    </vehicle>
+    <vehicle id="48" depart="48.00">
+        <route edges="801737481 599292834#1 599328375#0"/>
+    </vehicle>
+    <vehicle id="49" depart="49.00">
+        <route edges="801737481 599292834#1 1230810533 599654163#0 801285852#0"/>
+    </vehicle>
+    <vehicle id="50" depart="50.00">
+        <route edges="-492072103 599653101#1 599653101#2 599653101#3"/>
+    </vehicle>
+    <vehicle id="51" depart="51.00">
+        <route edges="599620472 599328375#0"/>
+    </vehicle>
+    <vehicle id="54" depart="54.00">
+        <route edges="599292834#1 599328375#0 599328375#1 599328374 599328373 801328860"/>
+    </vehicle>
+    <vehicle id="57" depart="57.00">
+        <route edges="801285852#0"/>
+    </vehicle>
+    <vehicle id="60" depart="60.00">
+        <route edges="599653101#1 599653101#2 801737481 599292834#1 599328375#0"/>
+    </vehicle>
+    <vehicle id="61" depart="61.00">
+        <route edges="599653101#1 599653101#2 801737481 599292834#1 599328375#0"/>
+    </vehicle>
+    <vehicle id="62" depart="62.00">
+        <route edges="-492072103 599653101#1 599653101#2 801737481 599292834#1"/>
+    </vehicle>
+    <vehicle id="63" depart="63.00">
+        <route edges="-492072103 599653101#1 599653101#2 801737481 599292834#1 1230810533 599292839#1 801286073"/>
+    </vehicle>
+    <vehicle id="69" depart="69.00">
+        <route edges="599653101#1 599653101#2 801737481 599292834#1 1230810533 599654163#0 801285852#0 -801286073"/>
+    </vehicle>
+    <vehicle id="71" depart="71.00">
+        <route edges="23449080#0 23449080#1 801737481 599292834#1 1230810533 599654163#0 801285852#0"/>
+    </vehicle>
+    <vehicle id="76" depart="76.00">
+        <route edges="599292834#1 599328375#0"/>
+    </vehicle>
+    <vehicle id="81" depart="81.00">
+        <route edges="1230810533 599654163#0 801285852#0 801285852#1"/>
+    </vehicle>
+    <vehicle id="84" depart="84.00">
+        <route edges="1230810533 599654163#0 801285852#0 -801286073"/>
+    </vehicle>
+    <vehicle id="89" depart="89.00">
+        <route edges="599292834#0 599292834#1 599328375#0 599328375#1 599328374 599328373"/>
+    </vehicle>
+    <vehicle id="90" depart="90.00">
+        <route edges="599653101#0 599653101#1 599653101#2"/>
+    </vehicle>
+    <vehicle id="91" depart="91.00">
+        <route edges="801737481 599292834#1 1230810533 599292839#1 801286073 -801285852#0"/>
+    </vehicle>
+    <vehicle id="92" depart="92.00">
+        <route edges="599292834#0 599292834#1 1230810533 599292839#1"/>
+    </vehicle>
+    <vehicle id="96" depart="96.00">
+        <route edges="23449080#0 23449080#1 801737481 599292834#1 1230810533 599292839#1 801286073"/>
+    </vehicle>
+    <vehicle id="97" depart="97.00">
+        <route edges="599292834#1 1230810533 599654163#0 801285852#0"/>
+    </vehicle>
+    <vehicle id="99" depart="99.00">
+        <route edges="801737481 599292834#1 1230810533 599654163#0 599654163#1"/>
+    </vehicle>
+</routes>
